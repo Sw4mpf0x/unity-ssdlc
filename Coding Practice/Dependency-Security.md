@@ -9,7 +9,7 @@ This document provides guidelines for how to securely store and retrieve depende
 NOTE: Dependencies come in many flavors (modules, packages, libraries, etc.), so we will refer to a dependency generically as "package" in this document.#store-private-and-symmetric-keys-in-a-secure-location)
 
 - [Python - Pip](#python---pip)
-- [NPM/Yarn](#npm-yarn)
+- [NPM/Yarn](#npmyarn)
 - [Golang - Go Modules](#golang---go-modules)
 - [Maven](#maven)
 - [Nuget](#nuget)
