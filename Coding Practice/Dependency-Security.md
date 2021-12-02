@@ -169,7 +169,7 @@ Homebrew is a package manager used for MacOS to install command line tools, appl
 
 ### How to Fix?
 
-We recommend adding a prefix to all internal tool repositories, specifically `Unity-Technologies`, which is the organization on GitHub. This will mitigate the issues when trying to pull new brew packages. Additionally, we recommend using the full formula name, in order to avoid ambiguity.
+We recommend adding a prefix to all internal tool repositories. This will mitigate the issues when trying to pull new brew packages. Additionally, we recommend using the full formula name, in order to avoid ambiguity.
 
 ## Artifactory
 
@@ -242,7 +242,7 @@ end
 gem 'testgem', '1.0', :source => 'https://gems.example.com'
  
 #Individual Gem from git repository
-gem 'testgem', :git => 'https://github.com/unity-internal/testgem.git', :branch => 'master'
+gem 'testgem', :git => 'https://github.com/company-internal/testgem.git', :branch => 'master'
 ```
 
 ## References
