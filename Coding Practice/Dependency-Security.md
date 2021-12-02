@@ -8,15 +8,15 @@ This document provides guidelines for how to securely store and retrieve depende
 
 NOTE: Dependencies come in many flavors (modules, packages, libraries, etc.), so we will refer to a dependency generically as "package" in this document.#store-private-and-symmetric-keys-in-a-secure-location)
 
-- [Python - Pip](https://confluence.unity3d.com/display/SEC/[Coding+Practice]+Dependency+Security#id-[CodingPractice]DependencySecurity-Python-Pip)
-- [NPM/Yarn](https://confluence.unity3d.com/display/SEC/[Coding+Practice]+Dependency+Security#id-[CodingPractice]DependencySecurity-NPM/Yarn)
-- [Golang - Go Modules](https://confluence.unity3d.com/display/SEC/[Coding+Practice]+Dependency+Security#id-[CodingPractice]DependencySecurity-Golang-GoModules)
-- [Maven](https://confluence.unity3d.com/display/SEC/[Coding+Practice]+Dependency+Security#id-[CodingPractice]DependencySecurity-Maven)
-- [Nuget](https://confluence.unity3d.com/display/SEC/[Coding+Practice]+Dependency+Security#id-[CodingPractice]DependencySecurity-Nuget)
-- [Brew](https://confluence.unity3d.com/display/SEC/[Coding+Practice]+Dependency+Security#id-[CodingPractice]DependencySecurity-Brew)
-- [Artifactory](https://confluence.unity3d.com/display/SEC/[Coding+Practice]+Dependency+Security#id-[CodingPractice]DependencySecurity-Artifactory)
-- [Jenkins](https://confluence.unity3d.com/display/SEC/[Coding+Practice]+Dependency+Security#id-[CodingPractice]DependencySecurity-Jenkins)
-- [Gems](https://confluence.unity3d.com/display/SEC/[Coding+Practice]+Dependency+Security#id-[CodingPractice]DependencySecurity-Gems)
+- [Python - Pip](#python---pip)
+- [NPM/Yarn](#npm-yarn)
+- [Golang - Go Modules](#golang---go-modules)
+- [Maven](#maven)
+- [Nuget](#nuget)
+- [Brew](#brew)
+- [Artifactory](#artifactory)
+- [Jenkins](#jenkins)
+- [Gems](#gems)
 
 ### General Recommendations
 
